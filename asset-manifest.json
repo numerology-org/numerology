@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/numerology/static/css/main.36eceb47.chunk.css",
-    "main.js": "/numerology/static/js/main.652a040e.chunk.js",
+    "main.js": "/numerology/static/js/main.c2ada1ab.chunk.js",
     "runtime-main.js": "/numerology/static/js/runtime-main.1d2a5462.js",
     "static/css/2.998cd177.chunk.css": "/numerology/static/css/2.998cd177.chunk.css",
     "static/js/2.0d648a09.chunk.js": "/numerology/static/js/2.0d648a09.chunk.js",
     "index.html": "/numerology/index.html",
-    "precache-manifest.77729116a6602f89ae7a7bd3e51b7708.js": "/numerology/precache-manifest.77729116a6602f89ae7a7bd3e51b7708.js",
+    "precache-manifest.8fedee8e7d71ca6a8ce24fcd0671fb8d.js": "/numerology/precache-manifest.8fedee8e7d71ca6a8ce24fcd0671fb8d.js",
     "service-worker.js": "/numerology/service-worker.js",
     "static/js/2.0d648a09.chunk.js.LICENSE.txt": "/numerology/static/js/2.0d648a09.chunk.js.LICENSE.txt"
   },
@@ -15,6 +15,6 @@
     "static/css/2.998cd177.chunk.css",
     "static/js/2.0d648a09.chunk.js",
     "static/css/main.36eceb47.chunk.css",
-    "static/js/main.652a040e.chunk.js"
+    "static/js/main.c2ada1ab.chunk.js"
   ]
 }
